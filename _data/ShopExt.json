@@ -10593,7 +10593,7 @@
   ],
   "races": [
     {
-      "price": 2833,
+      "price": 1500,
       "defName": "Alien_Engi",
       "enabled": true,
       "name": "engi",
@@ -10602,7 +10602,7 @@
       }
     },
     {
-      "price": 3167,
+      "price": 1500,
       "defName": "Alien_Forsaken",
       "enabled": true,
       "name": "forsaken",
@@ -10611,7 +10611,7 @@
       }
     },
     {
-      "price": 2917,
+      "price": 1500,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -10620,7 +10620,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 1500,
       "defName": "Alien_Lanius",
       "enabled": true,
       "name": "lanius",
@@ -10629,7 +10629,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 1500,
       "defName": "Alien_Leeani",
       "enabled": true,
       "name": "leeani",
@@ -10638,7 +10638,7 @@
       }
     },
     {
-      "price": 2500,
+      "price": 1500,
       "defName": "Races_Lizardman",
       "enabled": true,
       "name": "Lizardman",
@@ -10647,7 +10647,7 @@
       }
     },
     {
-      "price": 3167,
+      "price": 1500,
       "defName": "Alien_Mantis",
       "enabled": true,
       "name": "Mantis",
@@ -10656,7 +10656,7 @@
       }
     },
     {
-      "price": 2917,
+      "price": 1500,
       "defName": "Poleepkwa",
       "enabled": true,
       "name": "poleepkwa",
@@ -10665,7 +10665,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 1500,
       "defName": "Alien_Rockman",
       "enabled": true,
       "name": "Rockman",
@@ -10674,7 +10674,7 @@
       }
     },
     {
-      "price": 4167,
+      "price": 1500,
       "defName": "Thrumkin",
       "enabled": true,
       "name": "thrumkin",
@@ -10683,7 +10683,7 @@
       }
     },
     {
-      "price": 3167,
+      "price": 1500,
       "defName": "Alien_TrenchCat",
       "enabled": true,
       "name": "trenchcat",
