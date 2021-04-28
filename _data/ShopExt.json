@@ -15354,7 +15354,7 @@
   ],
   "races": [
     {
-      "price": 2917,
+      "price": 100,
       "defName": "Arachne",
       "enabled": true,
       "name": "arachne",
@@ -15363,7 +15363,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 100,
       "defName": "Alien_Crystal",
       "enabled": true,
       "name": "Crystal",
@@ -15372,25 +15372,7 @@
       }
     },
     {
-      "price": 9667,
-      "defName": "Dragonian_Female",
-      "enabled": true,
-      "name": "Dragonian",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 9667,
-      "defName": "Dragonian_Male",
-      "enabled": true,
-      "name": "Dragonian",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2833,
+      "price": 100,
       "defName": "Alien_Engi",
       "enabled": true,
       "name": "Engi",
@@ -15399,7 +15381,7 @@
       }
     },
     {
-      "price": 3167,
+      "price": 100,
       "defName": "Alien_Forsaken",
       "enabled": true,
       "name": "forsaken",
@@ -15408,7 +15390,7 @@
       }
     },
     {
-      "price": 6333,
+      "price": 100,
       "defName": "HC_Giant",
       "enabled": true,
       "name": "Giant",
@@ -15417,16 +15399,7 @@
       }
     },
     {
-      "price": 5833,
-      "defName": "Alien_Hisa",
-      "enabled": true,
-      "name": "hisa",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2917,
+      "price": 100,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -15435,7 +15408,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 100,
       "defName": "ALapelli",
       "enabled": true,
       "name": "Lapelli",
@@ -15444,7 +15417,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 100,
       "defName": "Alien_Leeani",
       "enabled": true,
       "name": "leeani",
@@ -15516,4 +15489,3507 @@
       }
     }
   ]
-}
+}e": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Rebel",
+      "degree": 0,
+      "name": "rebel",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "submissive"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "submissive"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Submissive",
+      "degree": 0,
+      "name": "submissive",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "rebel"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "rebel"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Vengeful",
+      "degree": 0,
+      "name": "vengeful",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "kind"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "kind"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Technophobe",
+      "degree": 0,
+      "name": "technophobe",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "transhumanist"
+        ],
+        "customName": false,
+        "stats": [
+          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+        ]
+      },
+      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+      ],
+      "conflicts": [
+        "transhumanist"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_FunLoving",
+      "degree": 0,
+      "name": "fun-loving",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "anxious"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "anxious"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Dunce",
+      "degree": 0,
+      "name": "dunce",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "eccentric",
+          "prodigy"
+        ],
+        "customName": false,
+        "stats": [
+          "-50% global learning factor",
+          "-50.00% social impact"
+        ]
+      },
+      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "-50% global learning factor",
+        "-50.00% social impact"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "eccentric",
+        "prodigy"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_MartialArtist",
+      "degree": 0,
+      "name": "martialartist",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Snob",
+      "degree": 0,
+      "name": "snob",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "ascetic"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Squeamish",
+      "degree": 0,
+      "name": "squeamish",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "ironstomach",
+          "desensitized"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "ironstomach",
+        "desensitized"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Anxious",
+      "degree": 0,
+      "name": "anxious",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "fun-loving"
+        ],
+        "customName": false,
+        "stats": [
+          "Only mental break \"VTE_PanicFreezing\" allowed."
+        ]
+      },
+      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "Only mental break \"VTE_PanicFreezing\" allowed."
+      ],
+      "conflicts": [
+        "fun-loving"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Insatiable",
+      "degree": 0,
+      "name": "insatiable",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "prude",
+          "asexual",
+          "nudist"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "prude",
+        "asexual",
+        "nudist"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Prude",
+      "degree": 0,
+      "name": "prude",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "insatiable",
+          "nudist"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "insatiable",
+        "nudist"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_CouchPotato",
+      "degree": 0,
+      "name": "couchpotato",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_CatPerson",
+      "degree": 0,
+      "name": "catperson",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "dogperson"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "dogperson"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_DogPerson",
+      "degree": 0,
+      "name": "dogperson",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "catperson"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "catperson"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Prodigy",
+      "degree": 0,
+      "name": "prodigy",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "dunce"
+        ],
+        "customName": false,
+        "stats": [
+          "+20% mental break threshold",
+          "x130% research speed"
+        ]
+      },
+      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+20% mental break threshold",
+        "x130% research speed"
+      ],
+      "conflicts": [
+        "dunce"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Menagerist",
+      "degree": 0,
+      "name": "menagerist",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "animalhater"
+        ],
+        "customName": false,
+        "stats": [
+          "x120% tame animal chance",
+          "x120% train animal chance"
+        ]
+      },
+      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "x120% tame animal chance",
+        "x120% train animal chance"
+      ],
+      "conflicts": [
+        "animalhater"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_ChildOfSea",
+      "degree": 0,
+      "name": "oceanlover",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_ChildOfMountain",
+      "degree": 0,
+      "name": "mountainlover",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_MadSurgeon",
+      "degree": 0,
+      "name": "madsurgeon",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+20% surgery success chance factor"
+        ]
+      },
+      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+20% surgery success chance factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_DrunkenMaster",
+      "degree": 0,
+      "name": "drunkenmaster",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 melee"
+        ]
+      },
+      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Kleptomaniac",
+      "degree": 0,
+      "name": "kleptomaniac",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "Only mental break \"VTE_Kleptomaniac\" allowed."
+        ]
+      },
+      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "Only mental break \"VTE_Kleptomaniac\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Stoner",
+      "degree": 0,
+      "name": "stoner",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Lush",
+      "degree": 0,
+      "name": "lush",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler",
+          "lush"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler",
+        "lush"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Wanderlust",
+      "degree": 0,
+      "name": "wanderlust",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+0.2 foraged food amount"
+        ]
+      },
+      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+0.2 foraged food amount"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Insomniac",
+      "degree": 0,
+      "name": "insomniac",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "heavysleeper"
+        ],
+        "customName": false,
+        "stats": [
+          "x50% global work speed",
+          "x70% move speed"
+        ]
+      },
+      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "x50% global work speed",
+        "x70% move speed"
+      ],
+      "conflicts": [
+        "heavysleeper"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_WorldWeary",
+      "degree": 0,
+      "name": "worldweary",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Desensitized",
+      "degree": 0,
+      "name": "desensitized",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "squeamish"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "squeamish"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_RefinedPalate",
+      "degree": 0,
+      "name": "refinedpalate",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "ascetic"
+        ],
+        "customName": false,
+        "stats": [
+          "x70% eating speed"
+        ]
+      },
+      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "x70% eating speed"
+      ],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Academian",
+      "degree": 0,
+      "name": "academian",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 intellectual",
+          "+4 medical",
+          "+20% medical tend quality"
+        ]
+      },
+      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 intellectual",
+        "+4 medical",
+        "+20% medical tend quality"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Groundbreaker",
+      "degree": 0,
+      "name": "groundbreaker",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 mining",
+          "+4 construction",
+          "+20% mining yield",
+          "+20% construction speed"
+        ]
+      },
+      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 mining",
+        "+4 construction",
+        "+20% mining yield",
+        "+20% construction speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Gastronomist",
+      "degree": 0,
+      "name": "gastronomist",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 cooking",
+          "+4 artistic",
+          "-25.00% food poison chance"
+        ]
+      },
+      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 cooking",
+        "+4 artistic",
+        "-25.00% food poison chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Ecologist",
+      "degree": 0,
+      "name": "ecologist",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 animals",
+          "+4 plants",
+          "+20% plant harvest yield",
+          "+20% butchery efficiency"
+        ]
+      },
+      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 animals",
+        "+4 plants",
+        "+20% plant harvest yield",
+        "+20% butchery efficiency"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Tycoon",
+      "degree": 0,
+      "name": "tycoon",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+4 social",
+          "+4 crafting",
+          "+25.00% trade price improvement"
+        ]
+      },
+      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [
+        "+4 social",
+        "+4 crafting",
+        "+25.00% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_ThickSkinned",
+      "degree": 0,
+      "name": "thickskinned",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "thinskinned"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "thinskinned"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_ThinSkinned",
+      "degree": 0,
+      "name": "thinskinned",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "thickskinned"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "thickskinned"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VTE_Schizoid",
+      "degree": 0,
+      "name": "schizoid",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.\n(Vanilla Traits Expanded)\n(Vanilla Traits Expanded)",
+      "stats": [],
+      "conflicts": [
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Giantism",
+      "degree": 0,
+      "name": "giantism",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "tough",
+          "gourmand"
+        ],
+        "customName": false,
+        "stats": [
+          "x40% incoming damage multiplier"
+        ]
+      },
+      "description": "A Giants with giantism is said to grow up to 30 feet. Not only his heights, but his skin grows thicker. To compensate for such growth, Timmy must eat more.\n(The GiantRace)\n(The GiantRace)",
+      "stats": [
+        "x40% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "tough",
+        "gourmand"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "MonsterHunter",
+      "degree": 0,
+      "name": "monsterhunter",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "wimp"
+        ],
+        "customName": false,
+        "stats": [
+          "+5.0 melee hit chance",
+          "+10.0 melee dodge chance"
+        ]
+      },
+      "description": "Timmy was titled a great warrior after striking down a dangerous beast single-handedly.\n(The GiantRace)\n(The GiantRace)",
+      "stats": [
+        "+5.0 melee hit chance",
+        "+10.0 melee dodge chance"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "LingTA01haxz",
+      "degree": 0,
+      "name": "watchman",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+0.15 move speed",
+          "x50% trap spring chance"
+        ]
+      },
+      "description": "Timmy prefers to be up during the night. he gets a mood bonus if awake at night (23h-6h). he doesn't mind living in darkness.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.15 move speed",
+        "x50% trap spring chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "LingTA02jzlc",
+      "degree": 0,
+      "name": "invaluable",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+10 honor value"
+        ]
+      },
+      "description": "For some unkown reason, Timmy has become a hot commodity and very expensive.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+10 honor value"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "LingTB01lth",
+      "degree": 0,
+      "name": "losequality",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+10.0 melee dodge chance",
+          "x125% neural heat recovery rate",
+          "x1% hunger rate multiplier",
+          "x0% mass"
+        ]
+      },
+      "description": "Timmy lost his weight in an accident. he hardly needs food, but he still will get hurt or sick.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+10.0 melee dodge chance",
+        "x125% neural heat recovery rate",
+        "x1% hunger rate multiplier",
+        "x0% mass"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "LingTZ01dmyz",
+      "degree": 0,
+      "name": "lowimmunity",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "super-immune",
+          "sickly"
+        ],
+        "customName": false,
+        "stats": [
+          "x80% immunity gain speed"
+        ]
+      },
+      "description": "Timmy has congenital immunodeficiency. So it's difficult for him to fight with diseases.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "x80% immunity gain speed"
+      ],
+      "conflicts": [
+        "super-immune",
+        "sickly"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA01hlzy",
+      "degree": 0,
+      "name": "coverfire",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "brawler"
+        ],
+        "customName": false,
+        "stats": [
+          "+1 shooting",
+          "-15% aiming time",
+          "+1.0 shooting accuracy"
+        ]
+      },
+      "description": "Timmy is good at using long-range weapons to support his teammates. he'll be confidence if asked to carry a ranged weapon.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 shooting",
+        "-15% aiming time",
+        "+1.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA02gdzj",
+      "degree": 0,
+      "name": "fighter",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "wimp"
+        ],
+        "customName": false,
+        "stats": [
+          "+1 melee",
+          "+1.0 melee hit chance",
+          "+5.0 melee dodge chance",
+          "x80% incoming damage multiplier"
+        ]
+      },
+      "description": "Timmy is so flexible that he fights well. he'll be so brave while wounded.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 melee",
+        "+1.0 melee hit chance",
+        "+5.0 melee dodge chance",
+        "x80% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA03nwj",
+      "degree": 0,
+      "name": "plasterer",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 construction",
+          "+25% construction speed",
+          "+25% smoothing speed",
+          "+10% construct success chance",
+          "+15 carrying capacity"
+        ]
+      },
+      "description": "Timmy has the skill to build a house and can also make some furniture.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 construction",
+        "+25% construction speed",
+        "+25% smoothing speed",
+        "+10% construct success chance",
+        "+15 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA04kg",
+      "degree": 0,
+      "name": "miner",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 mining",
+          "+25% mining speed",
+          "+10% mining yield",
+          "+25 carrying capacity"
+        ]
+      },
+      "description": "Timmy is good at digging and drilling. he doesn't mind eating on the ground or living in darkness.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 mining",
+        "+25% mining speed",
+        "+10% mining yield",
+        "+25 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA05hcy",
+      "degree": 0,
+      "name": "goodcooking",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 cooking",
+          "+2.0 cooking speed",
+          "-10.00% food poison chance",
+          "+25% butchery speed"
+        ]
+      },
+      "description": "Timmy is good at cooking.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 cooking",
+        "+2.0 cooking speed",
+        "-10.00% food poison chance",
+        "+25% butchery speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA06nf",
+      "degree": 0,
+      "name": "farmer",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 plants",
+          "+25% plant work speed",
+          "+10% plant harvest yield",
+          "+0.25 foraged food amount"
+        ]
+      },
+      "description": "Timmy is good at farming and harvesting crops. he doesn't mind eating on the ground.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 plants",
+        "+25% plant work speed",
+        "+10% plant harvest yield",
+        "+0.25 foraged food amount"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA07dwzy",
+      "degree": 0,
+      "name": "animalfriend",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "greedy"
+        ],
+        "customName": false,
+        "stats": [
+          "+1 animals",
+          "+25.00% tame animal chance",
+          "+25.00% train animal chance",
+          "+25% animal gather speed",
+          "+15% animal gather yield"
+        ]
+      },
+      "description": "Tame and train animals is easy for Timmy. he is also good at gathering resources from animals. he doesn't mind living in the wild.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 animals",
+        "+25.00% tame animal chance",
+        "+25.00% train animal chance",
+        "+25% animal gather speed",
+        "+15% animal gather yield"
+      ],
+      "conflicts": [
+        "greedy"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA08tj",
+      "degree": 0,
+      "name": "blacksmith",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 crafting",
+          "+20% general labor speed",
+          "+25% mechanoid shredding speed",
+          "+10% mechanoid shredding efficiency",
+          "+15 carrying capacity"
+        ]
+      },
+      "description": "Timmy is good at making weapons and equipment.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 crafting",
+        "+20% general labor speed",
+        "+25% mechanoid shredding speed",
+        "+10% mechanoid shredding efficiency",
+        "+15 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA09dkj",
+      "degree": 0,
+      "name": "artist",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 artistic",
+          "+20% general labor speed",
+          "+15% global learning factor",
+          "x110% neural heat recovery rate"
+        ]
+      },
+      "description": "Timmy is good at artistic creation.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 artistic",
+        "+20% general labor speed",
+        "+15% global learning factor",
+        "x110% neural heat recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA10zyhl",
+      "degree": 0,
+      "name": "nurse",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 medical",
+          "+25% medical tend quality",
+          "+30% medical tend speed",
+          "+15.00% social impact"
+        ]
+      },
+      "description": "Timmy is good at nursing. he can keep calm beside the corpse.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 medical",
+        "+25% medical tend quality",
+        "+30% medical tend speed",
+        "+15.00% social impact"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA11tnjm",
+      "degree": 0,
+      "name": "shrewd",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "gull",
+          "slowlearner"
+        ],
+        "customName": false,
+        "stats": [
+          "+1 social",
+          "+20.00% trade price improvement",
+          "+10.00% social impact",
+          "+15% global learning factor"
+        ]
+      },
+      "description": "Timmy is clever at understanding and making judgements about a situation. Talking is his weapon.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 social",
+        "+20.00% trade price improvement",
+        "+10.00% social impact",
+        "+15% global learning factor"
+      ],
+      "conflicts": [
+        "gull",
+        "slowlearner"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA12fmj",
+      "degree": 0,
+      "name": "inventor",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 intellectual",
+          "+30% research speed",
+          "+25% global learning factor"
+        ]
+      },
+      "description": "Timmy is passionate about researching and inventing things.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 intellectual",
+        "+30% research speed",
+        "+25% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA13rq",
+      "degree": 0,
+      "name": "enthusiasm",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "psychopath",
+          "coolheaded"
+        ],
+        "customName": false,
+        "stats": [
+          "+25.00% social impact",
+          "+25.00% negotiation ability"
+        ]
+      },
+      "description": "Timmy is a friendly and warm person. Everyone thinks that chatting with him is very happy.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+25.00% social impact",
+        "+25.00% negotiation ability"
+      ],
+      "conflicts": [
+        "psychopath",
+        "coolheaded"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA14yg",
+      "degree": 0,
+      "name": "brave",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "wimp",
+          "pyromaniac"
+        ],
+        "customName": false,
+        "stats": [
+          "+10.00% Arrest success chance",
+          "-5% mental break threshold",
+          "+10% pain shock threshold",
+          "-25% flammability"
+        ]
+      },
+      "description": "Timmy always come forward in danger. he'll be so brave while wounded or in sick.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+10.00% Arrest success chance",
+        "-5% mental break threshold",
+        "+10% pain shock threshold",
+        "-25% flammability"
+      ],
+      "conflicts": [
+        "wimp",
+        "pyromaniac"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA15qz",
+      "degree": 0,
+      "name": "strong",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 melee",
+          "+15% immunity gain speed",
+          "x200% carrying capacity"
+        ]
+      },
+      "description": "Timmy is a strongman. hecan carry more and recovers faster.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 melee",
+        "+15% immunity gain speed",
+        "x200% carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA16rz",
+      "degree": 0,
+      "name": "earnest",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+25% global work speed",
+          "+10% global learning factor",
+          "+15% aiming time"
+        ]
+      },
+      "description": "Timmy is focused on his work. his efficiency is very high.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+25% global work speed",
+        "+10% global learning factor",
+        "+15% aiming time"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA17cf",
+      "degree": 0,
+      "name": "craftsman",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 crafting",
+          "+25% general labor speed",
+          "+15 carrying capacity"
+        ]
+      },
+      "description": "Timmy is good at crafting.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 crafting",
+        "+25% general labor speed",
+        "+15 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA18fmg",
+      "degree": 0,
+      "name": "lumberjack",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+0.15 move speed",
+          "+25% plant work speed",
+          "+15 carrying capacity"
+        ]
+      },
+      "description": "Timmy is good at logging and hauling. he doesn't mind eating on the ground.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.15 move speed",
+        "+25% plant work speed",
+        "+15 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA19zg",
+      "degree": 0,
+      "name": "handyman",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+15% general labor speed",
+          "+25% smelting speed",
+          "+20 carrying capacity"
+        ]
+      },
+      "description": "Timmy is good at working in unskilled jobs.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+15% general labor speed",
+        "+25% smelting speed",
+        "+20 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA20ba",
+      "degree": 0,
+      "name": "universallove",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "psychopath",
+          "coolheaded",
+          "seeknovelty"
+        ],
+        "customName": false,
+        "stats": [
+          "+30.00% social impact"
+        ]
+      },
+      "description": "Timmy is friendly to people who are discriminated against.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+30.00% social impact"
+      ],
+      "conflicts": [
+        "psychopath",
+        "coolheaded",
+        "seeknovelty"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA21jj",
+      "degree": 0,
+      "name": "frugal",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "gourmand"
+        ],
+        "customName": false,
+        "stats": [
+          "-25% hunger rate multiplier"
+        ]
+      },
+      "description": "Timmy eats less than others. While he doesn't mind wearing ratty or tattered clothes.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "-25% hunger rate multiplier"
+      ],
+      "conflicts": [
+        "gourmand"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA22mmdsy",
+      "degree": 0,
+      "name": "nicevoice",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "annoyingvoice"
+        ],
+        "customName": false,
+        "stats": [
+          "+10.00% social impact"
+        ]
+      },
+      "description": "Timmy's voice is clear and pleasant. This predisposes others to like him.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+10.00% social impact"
+      ],
+      "conflicts": [
+        "annoyingvoice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA23hsc",
+      "degree": 0,
+      "name": "nicebody",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+0.10 move speed",
+          "x90% mass"
+        ]
+      },
+      "description": "Timmy has an enviable body that makes him very popular.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.10 move speed",
+        "x90% mass"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA24lr",
+      "degree": 0,
+      "name": "hunter",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "brawler"
+        ],
+        "customName": false,
+        "stats": [
+          "+1 shooting",
+          "+15% hunting stealth",
+          "+30.00% train animal chance",
+          "x120% shooting accuracy"
+        ]
+      },
+      "description": "Timmy is good at hunting.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 shooting",
+        "+15% hunting stealth",
+        "+30.00% train animal chance",
+        "x120% shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA25ys",
+      "degree": 0,
+      "name": "doctor",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 medical",
+          "+30% medical tend quality",
+          "+15% medical tend speed",
+          "+20% medical surgery success chance"
+        ]
+      },
+      "description": "Timmy is good at healing. he can keep calm beside the corpse.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 medical",
+        "+30% medical tend quality",
+        "+15% medical tend speed",
+        "+20% medical surgery success chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA26njg",
+      "degree": 0,
+      "name": "winemaker",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 cooking",
+          "+1.0 cooking speed",
+          "+30% drug cooking speed",
+          "+15 carrying capacity"
+        ]
+      },
+      "description": "Timmy is good at winemaking.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 cooking",
+        "+1.0 cooking speed",
+        "+30% drug cooking speed",
+        "+15 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA27yd",
+      "degree": 0,
+      "name": "gardener",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 plants",
+          "+15% plant work speed",
+          "+15% construction speed",
+          "+20% smoothing speed"
+        ]
+      },
+      "description": "Timmy is good at gardening.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 plants",
+        "+15% plant work speed",
+        "+15% construction speed",
+        "+20% smoothing speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA28xlg",
+      "degree": 0,
+      "name": "repairman",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 construction",
+          "+15% construction speed",
+          "+15% repair success chance",
+          "+15 carrying capacity"
+        ]
+      },
+      "description": "Timmy is good at repairing.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 construction",
+        "+15% construction speed",
+        "+15% repair success chance",
+        "+15 carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTA29fzz",
+      "degree": 0,
+      "name": "outcast",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "muggle"
+        ],
+        "customName": false,
+        "stats": [
+          "+0.30 neural heat recovery rate",
+          "x95% neural heat gain",
+          "x110% neural heat limit",
+          "x110% psychic sensitivity"
+        ]
+      },
+      "description": "Timmy was exiled by the empire, he has some talent in psychic.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.30 neural heat recovery rate",
+        "x95% neural heat gain",
+        "x110% neural heat limit",
+        "x110% psychic sensitivity"
+      ],
+      "conflicts": [
+        "muggle"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB01jb",
+      "degree": 0,
+      "name": "ranger",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "brawler"
+        ],
+        "customName": false,
+        "stats": [
+          "+2 shooting",
+          "+0.45 move speed",
+          "-10% aiming time",
+          "+25% eating speed"
+        ]
+      },
+      "description": "After training, Timmy learned professional combat skills. he is the eyes and ears of the team.he was trained to adapt to different harsh conditions. he'll be confidence if asked to carry a ranged weapon.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 shooting",
+        "+0.45 move speed",
+        "-10% aiming time",
+        "+25% eating speed"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB02tb",
+      "degree": 0,
+      "name": "impregnable",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "wimp"
+        ],
+        "customName": false,
+        "stats": [
+          "+2 melee",
+          "-50% flammability",
+          "+40.0% Armor - Blunt",
+          "+40.0% Armor - Sharp",
+          "+40.0% Armor - Heat",
+          "x60% incoming damage multiplier"
+        ]
+      },
+      "description": "After training, Timmy got a body strong as iron. he is the pioneer of the team. he was trained to adapt to different harsh conditions. he'll be so brave while wounded.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 melee",
+        "-50% flammability",
+        "+40.0% Armor - Blunt",
+        "+40.0% Armor - Sharp",
+        "+40.0% Armor - Heat",
+        "x60% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB03yy",
+      "degree": 0,
+      "name": "elegant",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "annoyingvoice",
+          "abrasive",
+          "creepybreathing",
+          "slovenly"
+        ],
+        "customName": false,
+        "stats": [
+          "Corpse obsession mental state disabled.",
+          "Binging on food mental state disabled.",
+          "Insulting spree mental state disabled.",
+          "Insulting spree mental state disabled.",
+          "Social fighting mental state disabled.",
+          "+2 social",
+          "+35.00% social impact",
+          "+10% global work speed",
+          "+1.0 beauty",
+          "-20% eating speed"
+        ]
+      },
+      "description": "Timmy is decent attitude always makes him a welcome one.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "Corpse obsession mental state disabled.",
+        "Binging on food mental state disabled.",
+        "Insulting spree mental state disabled.",
+        "Insulting spree mental state disabled.",
+        "Social fighting mental state disabled.",
+        "+2 social",
+        "+35.00% social impact",
+        "+10% global work speed",
+        "+1.0 beauty",
+        "-20% eating speed"
+      ],
+      "conflicts": [
+        "annoyingvoice",
+        "abrasive",
+        "creepybreathing",
+        "slovenly"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB04jy",
+      "degree": 0,
+      "name": "militarysurgeon",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+2 medical",
+          "+50% medical tend speed",
+          "+50% medical operation speed",
+          "+0.10 move speed",
+          "x120% medical tend speed"
+        ]
+      },
+      "description": "After training, Timmy learned first aid skills. he was trained to adapt to different harsh conditions.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 medical",
+        "+50% medical tend speed",
+        "+50% medical operation speed",
+        "+0.10 move speed",
+        "x120% medical tend speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB05ll",
+      "degree": 0,
+      "name": "seasoned",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "silly"
+        ],
+        "customName": false,
+        "stats": [
+          "+1 shooting",
+          "+1 melee",
+          "+1 social",
+          "+1 animals",
+          "+1 medical",
+          "x110% global work speed",
+          "x50% flammability",
+          "x50% psychic sensitivity",
+          "x50% global learning factor"
+        ]
+      },
+      "description": "After years of experience, Timmy is no longer pure and arrogant, he can handle anything with experience.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 shooting",
+        "+1 melee",
+        "+1 social",
+        "+1 animals",
+        "+1 medical",
+        "x110% global work speed",
+        "x50% flammability",
+        "x50% psychic sensitivity",
+        "x50% global learning factor"
+      ],
+      "conflicts": [
+        "silly"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB06lc",
+      "degree": 0,
+      "name": "coolheaded",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "psychopath",
+          "kind",
+          "brawler",
+          "jealous",
+          "enthusiasm",
+          "universallove",
+          "yandere",
+          "mukuchi",
+          "genkisa",
+          "harakuro",
+          "dokuzetu",
+          "warriorofthesun",
+          "bornleader"
+        ],
+        "customName": false,
+        "stats": [
+          "x75% aiming time",
+          "x130% shooting accuracy"
+        ]
+      },
+      "description": "Timmy is unsmiling，determined and calm. Psychic drone or the misadventures of others can't affect him.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "x75% aiming time",
+        "x130% shooting accuracy"
+      ],
+      "conflicts": [
+        "psychopath",
+        "kind",
+        "brawler",
+        "jealous",
+        "enthusiasm",
+        "universallove",
+        "yandere",
+        "mukuchi",
+        "genkisa",
+        "harakuro",
+        "dokuzetu",
+        "warriorofthesun",
+        "bornleader"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB07hy",
+      "degree": 0,
+      "name": "goodfortune",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "badfortune"
+        ],
+        "customName": false,
+        "stats": [
+          "+30% repair success chance",
+          "+30% construct success chance",
+          "-30.00% food poison chance",
+          "+0.15 foraged food amount",
+          "+10.00% trade price improvement",
+          "+10% immunity gain speed"
+        ]
+      },
+      "description": "Timmy is the lucky one. It's hard to imagine what accident he will have.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+30% repair success chance",
+        "+30% construct success chance",
+        "-30.00% food poison chance",
+        "+0.15 foraged food amount",
+        "+10.00% trade price improvement",
+        "+10% immunity gain speed"
+      ],
+      "conflicts": [
+        "badfortune"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB08zkw",
+      "degree": 0,
+      "name": "seeknovelty",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "psychopath",
+          "universallove"
+        ],
+        "customName": false,
+        "stats": [
+          "+15.00% social impact",
+          "-12% mental break threshold"
+        ]
+      },
+      "description": "Timmy's preferences are different. he is fascinated by what others hate.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+15.00% social impact",
+        "-12% mental break threshold"
+      ],
+      "conflicts": [
+        "psychopath",
+        "universallove"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB09qgqc",
+      "degree": 0,
+      "name": "dropdeadgorgeous",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly"
+        ],
+        "customName": false,
+        "stats": [
+          "+2.0 beauty"
+        ]
+      },
+      "description": "Timmy's beauty is unique and could even lead to war. People are involuntarily attracted to him.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2.0 beauty"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB10tlzy",
+      "degree": 0,
+      "name": "soundofnature",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "annoyingvoice"
+        ],
+        "customName": false,
+        "stats": [
+          "+20.00% social impact",
+          "+1.0 beauty"
+        ]
+      },
+      "description": "Timmy has a dreamy perfect voice. People are involuntarily attracted to him.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+20.00% social impact",
+        "+1.0 beauty"
+      ],
+      "conflicts": [
+        "annoyingvoice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB11mgsc",
+      "degree": 0,
+      "name": "killerbody",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+0.20 move speed",
+          "+1.0 beauty",
+          "x110% global work speed",
+          "x85% mass"
+        ]
+      },
+      "description": "Timmy's body is deadly tempting. People are involuntarily attracted to him.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.20 move speed",
+        "+1.0 beauty",
+        "x110% global work speed",
+        "x85% mass"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB12yjs",
+      "degree": 0,
+      "name": "chemist",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 crafting",
+          "+1 intellectual",
+          "+50% drug synthesis speed",
+          "+25% research speed",
+          "+20% global learning factor",
+          "x120% drug synthesis speed"
+        ]
+      },
+      "description": "Timmy is very good at researching and making medicine.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 crafting",
+        "+1 intellectual",
+        "+50% drug synthesis speed",
+        "+25% research speed",
+        "+20% global learning factor",
+        "x120% drug synthesis speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB13dc",
+      "degree": 0,
+      "name": "chef",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "ascetic"
+        ],
+        "customName": false,
+        "stats": [
+          "+2 cooking",
+          "+3.0 cooking speed",
+          "-15.00% food poison chance",
+          "+50% butchery speed",
+          "+20% butchery efficiency",
+          "x120% butchery speed"
+        ]
+      },
+      "description": "Timmy is very good at slaughtering and cooking.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 cooking",
+        "+3.0 cooking speed",
+        "-15.00% food poison chance",
+        "+50% butchery speed",
+        "+20% butchery efficiency",
+        "x120% butchery speed"
+      ],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB14gcs",
+      "degree": 0,
+      "name": "engineer",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+1 construction",
+          "+1 crafting",
+          "+40% construction speed",
+          "+15% construct success chance",
+          "+15% general labor speed",
+          "x30% trap spring chance"
+        ]
+      },
+      "description": "Timmy is very good at building and making.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 construction",
+        "+1 crafting",
+        "+40% construction speed",
+        "+15% construct success chance",
+        "+15% general labor speed",
+        "x30% trap spring chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB15ktj",
+      "degree": 0,
+      "name": "explorer",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+2 mining",
+          "+40% mining speed",
+          "+15% mining yield",
+          "+25% research speed",
+          "+20% global learning factor"
+        ]
+      },
+      "description": "Timmy is very good at digging and researching. he doesn't mind eating on the ground or living in darkness.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 mining",
+        "+40% mining speed",
+        "+15% mining yield",
+        "+25% research speed",
+        "+20% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB16ymls",
+      "degree": 0,
+      "name": "nomadichunter",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "brawler"
+        ],
+        "customName": false,
+        "stats": [
+          "+1 shooting",
+          "+1 animals",
+          "+0.30 move speed",
+          "-30% aiming time",
+          "+40.00% tame animal chance",
+          "+50% animal gather speed",
+          "x120% animal gather speed"
+        ]
+      },
+      "description": "Timmy is very good at hunting and taming animals. he doesn't mind living in the wild. he'll be confidence if asked to carry a ranged weapon.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 shooting",
+        "+1 animals",
+        "+0.30 move speed",
+        "-30% aiming time",
+        "+40.00% tame animal chance",
+        "+50% animal gather speed",
+        "x120% animal gather speed"
+      ],
+      "conflicts": [
+        "brawler"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB17xss",
+      "degree": 0,
+      "name": "tamer",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+2 animals",
+          "+20.00% tame animal chance",
+          "+50.00% train animal chance",
+          "x120% train animal chance",
+          "x50% trap spring chance"
+        ]
+      },
+      "description": "Timmy is very good at taming and training animals. \n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 animals",
+        "+20.00% tame animal chance",
+        "+50.00% train animal chance",
+        "x120% train animal chance",
+        "x50% trap spring chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB18ydjj",
+      "degree": 0,
+      "name": "sportsmaster",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "somnolence",
+          "undergrounder"
+        ],
+        "customName": false,
+        "stats": [
+          "+0.30 move speed",
+          "+1.0 beauty",
+          "x115% move speed",
+          "x120% rest rate multiplier"
+        ]
+      },
+      "description": "Timmy has great athleticism. he is very popular.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.30 move speed",
+        "+1.0 beauty",
+        "x115% move speed",
+        "x120% rest rate multiplier"
+      ],
+      "conflicts": [
+        "somnolence",
+        "undergrounder"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB19ox",
+      "degree": 0,
+      "name": "idol",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "annoyingvoice"
+        ],
+        "customName": false,
+        "stats": [
+          "+1 social",
+          "+1 artistic",
+          "+15.00% social impact",
+          "+1.0 beauty",
+          "+15% general labor speed",
+          "x85% mass"
+        ]
+      },
+      "description": "Timmy has a great artistic talent. he is very popular.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+1 social",
+        "+1 artistic",
+        "+15.00% social impact",
+        "+1.0 beauty",
+        "+15% general labor speed",
+        "x85% mass"
+      ],
+      "conflicts": [
+        "annoyingvoice"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB20js",
+      "degree": 0,
+      "name": "priest",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "shaman",
+          "childofnature"
+        ],
+        "customName": false,
+        "stats": [
+          "+25% medical tend quality",
+          "+30% psychic sensitivity",
+          "x125% social impact",
+          "x120% negotiation ability",
+          "x125% neural heat limit"
+        ]
+      },
+      "description": "Timmy is a believer in God. he helps others with words and treatments.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+25% medical tend quality",
+        "+30% psychic sensitivity",
+        "x125% social impact",
+        "x120% negotiation ability",
+        "x125% neural heat limit"
+      ],
+      "conflicts": [
+        "shaman",
+        "childofnature"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB21sm",
+      "degree": 0,
+      "name": "shaman",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "priest",
+          "bishop"
+        ],
+        "customName": false,
+        "stats": [
+          "+20% medical tend quality",
+          "+0.3 foraged food amount",
+          "+35% psychic sensitivity",
+          "x120% social impact",
+          "x90% neural heat gain"
+        ]
+      },
+      "description": "Timmy is a believer in nature. he helps others with words and treatments. he doesn't mind living in the wild.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+20% medical tend quality",
+        "+0.3 foraged food amount",
+        "+35% psychic sensitivity",
+        "x120% social impact",
+        "x90% neural heat gain"
+      ],
+      "conflicts": [
+        "priest",
+        "bishop"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB22ck",
+      "degree": 0,
+      "name": "assassin",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+2 melee",
+          "+2.5 melee hit chance",
+          "+4.0 melee dodge chance",
+          "x110% move speed",
+          "x130% melee dodge chance",
+          "x5% trap spring chance"
+        ]
+      },
+      "description": "Timmy is an agile and dangerous killer. he was trained to adapt to different harsh conditions. he gets a mood bonus if awake at night (23h-6h). he doesn't mind living in darkness.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 melee",
+        "+2.5 melee hit chance",
+        "+4.0 melee dodge chance",
+        "x110% move speed",
+        "x130% melee dodge chance",
+        "x5% trap spring chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB23gzs",
+      "degree": 0,
+      "name": "executioner",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+2 melee",
+          "+50.0% Armor - Sharp",
+          "+40% butchery speed",
+          "+20.00% Arrest success chance",
+          "x130% melee hit chance",
+          "x150% carrying capacity"
+        ]
+      },
+      "description": "Timmy is a strong and dangerous killer. he is ruthless.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 melee",
+        "+50.0% Armor - Sharp",
+        "+40% butchery speed",
+        "+20.00% Arrest success chance",
+        "x130% melee hit chance",
+        "x150% carrying capacity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB24tls",
+      "degree": 0,
+      "name": "channeler",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "muggle"
+        ],
+        "customName": false,
+        "stats": [
+          "+0.70 neural heat recovery rate",
+          "+5.0 neural heat limit",
+          "x120% neural heat limit",
+          "x115% neural heat recovery rate",
+          "x80% neural heat gain",
+          "x120% psychic sensitivity"
+        ]
+      },
+      "description": "Timmy is very good at psychics.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.70 neural heat recovery rate",
+        "+5.0 neural heat limit",
+        "x120% neural heat limit",
+        "x115% neural heat recovery rate",
+        "x80% neural heat gain",
+        "x120% psychic sensitivity"
+      ],
+      "conflicts": [
+        "muggle"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB25wx",
+      "degree": 0,
+      "name": "martialarts",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "coolheaded"
+        ],
+        "customName": false,
+        "stats": [
+          "+0.20 move speed",
+          "+15% medical tend quality",
+          "+0.60 neural heat recovery rate",
+          "x85% neural heat gain",
+          "x140% melee dodge chance",
+          "x75% incoming damage multiplier"
+        ]
+      },
+      "description": "Timmy is a chivalrous martial artist. he is also very good at psychics.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.20 move speed",
+        "+15% medical tend quality",
+        "+0.60 neural heat recovery rate",
+        "x85% neural heat gain",
+        "x140% melee dodge chance",
+        "x75% incoming damage multiplier"
+      ],
+      "conflicts": [
+        "coolheaded"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB26gzsr",
+      "degree": 0,
+      "name": "noblemerchant",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "ascetic",
+          "gull"
+        ],
+        "customName": false,
+        "stats": [
+          "+2 social",
+          "+30.00% trade price improvement",
+          "+1.0 beauty",
+          "+15 honor value",
+          "x110% trade price improvement"
+        ]
+      },
+      "description": "Timmy is an good businessman with a noble background. he is very good at bargaining with his identity.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 social",
+        "+30.00% trade price improvement",
+        "+1.0 beauty",
+        "+15 honor value",
+        "x110% trade price improvement"
+      ],
+      "conflicts": [
+        "ascetic",
+        "gull"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTB27qhr",
+      "degree": 0,
+      "name": "clone",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "newtype"
+        ],
+        "customName": false,
+        "stats": [
+          "+0.15 move speed",
+          "+4.0 shooting accuracy",
+          "+2.0 melee hit chance",
+          "+7.0 melee dodge chance",
+          "+100% psychic sensitivity",
+          "x70% aiming time"
+        ]
+      },
+      "description": "Timmy is a modified clone. his combat ability was strengthened, but his psyche is unstable.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.15 move speed",
+        "+4.0 shooting accuracy",
+        "+2.0 melee hit chance",
+        "+7.0 melee dodge chance",
+        "+100% psychic sensitivity",
+        "x70% aiming time"
+      ],
+      "conflicts": [
+        "newtype"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC01jzds",
+      "degree": 0,
+      "name": "architect",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+3 construction",
+          "+50% construction speed",
+          "+50% smoothing speed",
+          "+25% repair success chance",
+          "+25% construct success chance",
+          "-5% rest rate multiplier",
+          "x120% construction speed",
+          "x120% smoothing speed"
+        ]
+      },
+      "description": "Timmy is an excellent architect. he is known for his outstanding architectural works.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 construction",
+        "+50% construction speed",
+        "+50% smoothing speed",
+        "+25% repair success chance",
+        "+25% construct success chance",
+        "-5% rest rate multiplier",
+        "x120% construction speed",
+        "x120% smoothing speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC02wjj",
+      "degree": 0,
+      "name": "drillingexpert",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+3 mining",
+          "+50% mining speed",
+          "+25% mining yield",
+          "-40% psychic sensitivity",
+          "+50 carrying capacity",
+          "-10.00% social impact",
+          "x125% mining speed"
+        ]
+      },
+      "description": "Timmy is an expert in mining. he doesn't mind eating on the ground or living in darkness.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 mining",
+        "+50% mining speed",
+        "+25% mining yield",
+        "-40% psychic sensitivity",
+        "+50 carrying capacity",
+        "-10.00% social impact",
+        "x125% mining speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC03cs",
+      "degree": 0,
+      "name": "masterchef",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+3 cooking",
+          "+5.0 cooking speed",
+          "-50.00% food poison chance",
+          "+25% butchery efficiency",
+          "+50% drug cooking speed",
+          "-10% eating speed",
+          "x125% butchery speed",
+          "x120% drug cooking speed"
+        ]
+      },
+      "description": "Timmy is a top chef. People love his cooking.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 cooking",
+        "+5.0 cooking speed",
+        "-50.00% food poison chance",
+        "+25% butchery efficiency",
+        "+50% drug cooking speed",
+        "-10% eating speed",
+        "x125% butchery speed",
+        "x120% drug cooking speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC04smcbz",
+      "degree": 0,
+      "name": "soweroflife",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+3 plants",
+          "+50% plant work speed",
+          "+25% plant harvest yield",
+          "-50% toxic sensitivity",
+          "+0.5 foraged food amount",
+          "x125% plant work speed"
+        ]
+      },
+      "description": "Timmy can turn barren land into a paradise of flowers and trees. he knows how to be good use of the gift from plants. he adapts to different harsh conditions.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 plants",
+        "+50% plant work speed",
+        "+25% plant harvest yield",
+        "-50% toxic sensitivity",
+        "+0.5 foraged food amount",
+        "x125% plant work speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC05sw",
+      "degree": 0,
+      "name": "kingofbeasts",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "greedy"
+        ],
+        "customName": false,
+        "stats": [
+          "+3 animals",
+          "+50.00% tame animal chance",
+          "+50.00% train animal chance",
+          "-10.0C Minimum comfortable temperature",
+          "x120% tame animal chance",
+          "x120% train animal chance",
+          "x115% move speed",
+          "x85% global work speed"
+        ]
+      },
+      "description": "Timmy is an excellent wild animal trainer. All animals will follow him. he adapts to different harsh conditions.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 animals",
+        "+50.00% tame animal chance",
+        "+50.00% train animal chance",
+        "-10.0C Minimum comfortable temperature",
+        "x120% tame animal chance",
+        "x120% train animal chance",
+        "x115% move speed",
+        "x85% global work speed"
+      ],
+      "conflicts": [
+        "greedy"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC06jj",
+      "degree": 0,
+      "name": "consummatecraftsman",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+3 crafting",
+          "+50% smelting speed",
+          "+50% general labor speed",
+          "+50% mechanoid shredding speed",
+          "+20% mechanoid shredding efficiency",
+          "-30.00% social impact",
+          "x120% smelting speed",
+          "x120% general labor speed"
+        ]
+      },
+      "description": "Timmy is a brilliant craftsmen. he is skilled in sewing clothes and making weapons. he doesn't mind staying indoors for a long time.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 crafting",
+        "+50% smelting speed",
+        "+50% general labor speed",
+        "+50% mechanoid shredding speed",
+        "+20% mechanoid shredding efficiency",
+        "-30.00% social impact",
+        "x120% smelting speed",
+        "x120% general labor speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC07yl",
+      "degree": 0,
+      "name": "professionaldoctor",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+3 medical",
+          "+50% medical surgery success chance",
+          "+50% medical tend quality",
+          "+50% medical tend speed",
+          "x120% medical tend quality",
+          "x120% medical surgery success chance",
+          "x80% medical operation speed"
+        ]
+      },
+      "description": "Timmy is a medical expert。he will keep calm beside the corpse.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 medical",
+        "+50% medical surgery success chance",
+        "+50% medical tend quality",
+        "+50% medical tend speed",
+        "x120% medical tend quality",
+        "x120% medical surgery success chance",
+        "x80% medical operation speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC08sk",
+      "degree": 0,
+      "name": "lobbyist",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+3 social",
+          "+25.00% trade price improvement",
+          "+50.00% negotiation ability",
+          "+25.00% social impact",
+          "-3.0 melee hit chance",
+          "x125% negotiation ability"
+        ]
+      },
+      "description": "Timmy is adept at lobbying others. his superb conversation skills are admirable.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 social",
+        "+25.00% trade price improvement",
+        "+50.00% negotiation ability",
+        "+25.00% social impact",
+        "-3.0 melee hit chance",
+        "x125% negotiation ability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC09tc",
+      "degree": 0,
+      "name": "genius",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+3 intellectual",
+          "+50% research speed",
+          "+50% drug synthesis speed",
+          "+50% global learning factor",
+          "+10% global work speed",
+          "+50% psychic sensitivity",
+          "x125% research speed",
+          "x80% neural heat gain"
+        ]
+      },
+      "description": "Learning and research are hard for most people, except for Timmy. he really enjoys it. he doesn't mind staying indoors for a long time.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+3 intellectual",
+        "+50% research speed",
+        "+50% drug synthesis speed",
+        "+50% global learning factor",
+        "+10% global work speed",
+        "+50% psychic sensitivity",
+        "x125% research speed",
+        "x80% neural heat gain"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC10cgs",
+      "degree": 0,
+      "name": "speeding",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+0.50 move speed",
+          "-2.0 shooting accuracy",
+          "-2.0 melee hit chance",
+          "x125% move speed"
+        ]
+      },
+      "description": "Timmy's speed is quick as lightning.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+0.50 move speed",
+        "-2.0 shooting accuracy",
+        "-2.0 melee hit chance",
+        "x125% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC11bdbq",
+      "degree": 0,
+      "name": "peerlessimmunity",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+100% immunity gain speed",
+          "-100% toxic sensitivity",
+          "+800.00% food poison chance"
+        ]
+      },
+      "description": "Timmy has an uncommon powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill most people. Toxic dust can't stop him either.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+100% immunity gain speed",
+        "-100% toxic sensitivity",
+        "+800.00% food poison chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC12jhsr",
+      "degree": 0,
+      "name": "armsdealer",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "gull"
+        ],
+        "customName": false,
+        "stats": [
+          "+2 social",
+          "+1 shooting",
+          "+50.00% trade price improvement",
+          "+30.00% negotiation ability",
+          "+2.5 shooting accuracy",
+          "x120% trade price improvement",
+          "x55% aiming time",
+          "x50% neural heat limit"
+        ]
+      },
+      "description": "As a well-known arms dealer, Timmy is extremely good at using his goods.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 social",
+        "+1 shooting",
+        "+50.00% trade price improvement",
+        "+30.00% negotiation ability",
+        "+2.5 shooting accuracy",
+        "x120% trade price improvement",
+        "x55% aiming time",
+        "x50% neural heat limit"
+      ],
+      "conflicts": [
+        "gull"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC13cjz",
+      "degree": 0,
+      "name": "punisher",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "wimp",
+          "transhumanist"
+        ],
+        "customName": false,
+        "stats": [
+          "+2 melee",
+          "+2 shooting",
+          "+0.40 move speed",
+          "-20% aiming time",
+          "+70.0% Armor - Sharp",
+          "-20.00% trade price improvement",
+          "x135% shooting accuracy",
+          "x140% melee hit chance"
+        ]
+      },
+      "description": "Timmy was a professional soldier. he has excellent combat skills and often appears on the battlefield as a trump card.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+2 melee",
+        "+2 shooting",
+        "+0.40 move speed",
+        "-20% aiming time",
+        "+70.0% Armor - Sharp",
+        "-20.00% trade price improvement",
+        "x135% shooting accuracy",
+        "x140% melee hit chance"
+      ],
+      "conflicts": [
+        "wimp",
+        "transhumanist"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC14qy",
+      "degree": 0,
+      "name": "superluck",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "badfortune"
+        ],
+        "customName": false,
+        "stats": [
+          "+50% repair success chance",
+          "+50% construct success chance",
+          "+40% hunting stealth",
+          "+0.3 foraged food amount",
+          "+20.00% trade price improvement",
+          "+20% immunity gain speed",
+          "x0% food poison chance",
+          "x0% trap spring chance"
+        ]
+      },
+      "description": "Timmy is an unbeatable lucky one. It's hard to imagine what accident he will have.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+50% repair success chance",
+        "+50% construct success chance",
+        "+40% hunting stealth",
+        "+0.3 foraged food amount",
+        "+20.00% trade price improvement",
+        "+20% immunity gain speed",
+        "x0% food poison chance",
+        "x0% trap spring chance"
+      ],
+      "conflicts": [
+        "badfortune"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC15zj",
+      "degree": 0,
+      "name": "bishop",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "shaman",
+          "childofnature"
+        ],
+        "customName": false,
+        "stats": [
+          "+50% medical tend quality",
+          "+0.50 neural heat recovery rate",
+          "+15.0 neural heat limit",
+          "+50% psychic sensitivity",
+          "x130% social impact",
+          "x130% negotiation ability",
+          "x130% neural heat limit"
+        ]
+      },
+      "description": "Timmy is a respected senior priest. he helps others with words and treatments.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+50% medical tend quality",
+        "+0.50 neural heat recovery rate",
+        "+15.0 neural heat limit",
+        "+50% psychic sensitivity",
+        "x130% social impact",
+        "x130% negotiation ability",
+        "x130% neural heat limit"
+      ],
+      "conflicts": [
+        "shaman",
+        "childofnature"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PTC16dmfs",
+      "degree": 0,
+      "name": "archmage",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "muggle"
+        ],
+        "customName": false,
+        "stats": [
+          "+50% research speed",
+          "+30% global learning factor",
+          "+1.00 neural heat recovery rate",
+          "-20% general labor speed",
+          "x130% psychic sensitivity",
+          "x130% neural heat recovery rate",
+          "x125% neural heat limit",
+          "x66% neural heat gain"
+        ]
+      },
+      "description": "Timmy is an excellent psychic user. he is also good at learning and research.\n(More Practical Traits)\n(More Practical Traits)",
+      "stats": [
+        "+50% research speed",
+        "+30% global learning factor",
+        "+1.00 neural heat recovery rate",
+        "-20% general labor speed",
+        "x130% psychic sensitivity",
+        "x130% neural heat recovery rate",
+        "x125% neural heat limit",
+        "x66% neural heat gain"
+      ],
+      "conflicts": [
+        "muggle"
+      ],
+      "bypassLimit": false
+ 
